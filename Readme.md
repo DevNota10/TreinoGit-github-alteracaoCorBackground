@@ -1,0 +1,1 @@
+Treino: alteração de cor do background com um click.
